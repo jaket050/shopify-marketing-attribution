@@ -1,0 +1,418 @@
+﻿orderNumber;orderStatus;orderDate;countryCode;paymentMethod;orderRefundAmount;orderTotalAmount;itemName;quantity
+15387;Completed;22/07/2025 07:21;ES;PayPal;0;50.00;FulfillPro;1
+15386;Completed;22/07/2025 03:01;AU;Card;0;9.99;ShipStream;1
+15385;Completed;21/07/2025 22:02;US;Card;0;9.99;ProspectHub;1
+15384;Completed;21/07/2025 21:26;US;Card;0;50.00;FulfillPro;1
+15380;Completed;21/07/2025 15:19;CA;Card;0;100.00;PeopleSync;1
+15367;Completed;21/07/2025 12:39;CH;PayPal;0;100.00;PeopleSync;1
+15366;Completed;21/07/2025 11:38;US;PayPal;0;100.00;PeopleSync;1
+15356;Completed;18/07/2025 17:03;IN;Card;0;9.99;ProspectHub;1
+15355;Completed;18/07/2025 15:58;US;Card;0;225.00;ShipStream;1
+15351;Completed;15/07/2025 20:50;US;Card;0;225.00;ShipStream;1
+15349;Completed;13/07/2025 20:50;US;Card;0;225.00;ShipStream;1
+15348;Completed;11/07/2025 16:47;GB;Card;0;9.99;ProspectHub;1
+15341;Completed;11/07/2025 14:41;US;Card;0;9.99;ProspectHub;1
+14948;Completed;08/07/2025 09:41;GB;PayPal;0;225.00;ShipStream;1
+14947;Completed;07/07/2025 13:30;CN;PayPal;0;50.00;FulfillPro;1
+14940;Completed;07/07/2025 02:41;US;PayPal;0;9.99;ProspectHub;1
+14939;Completed;06/07/2025 09:32;CN;Card;0;9.99;ShipStream;1
+14938;Completed;05/07/2025 15:32;US;PayPal;0;9.99;ShipStream;1
+14937;Completed;04/07/2025 09:35;AE;Card;0;9.99;ProspectHub;1
+14936;Completed;03/07/2025 15:32;US;PayPal;0;225.00;ShipStream;1
+14933;Completed;03/07/2025 08:11;US;Card;0;50.00;FulfillPro;1
+14932;Completed;03/07/2025 07:18;US;Card;0;225.00;ShipStream;1
+14931;Completed;03/07/2025 05:49;IN;Card;0;50.00;FulfillPro;1
+14930;Completed;02/07/2025 23:02;US;Card;0;59.99;FulfillPro;1
+14930;Completed;02/07/2025 23:02;US;Card;0;59.99;ShipStream;1
+14929;Completed;02/07/2025 21:10;GB;Card;0;50.00;FulfillPro;1
+14928;Completed;02/07/2025 06:43;US;Card;0;100.00;PeopleSync;1
+14927;Completed;01/07/2025 21:40;US;PayPal;0;50.00;FulfillPro;1
+14926;Completed;01/07/2025 15:47;SA;Card;0;97.00;ShipStream - Core;1
+14925;Completed;01/07/2025 15:26;US;Card;0;100.00;PeopleSync;1
+14924;Completed;01/07/2025 10:47;US;Card;0;100.00;PeopleSync;1
+14923;Completed;30/06/2025 16:47;US;PayPal Pay Later;0;50.00;FulfillPro;1
+14922;Completed;28/06/2025 02:53;SI;PayPal;0;50.00;FulfillPro;1
+14921;Completed;27/06/2025 20:23;CA;Card;0;97.00;ShipStream - Core;1
+14920;Completed;25/06/2025 20:42;US;Card;0;50.00;FulfillPro;1
+14919;Completed;25/06/2025 11:18;GB;Card;0;9.99;ProspectHub;1
+14918;Completed;24/06/2025 21:27;FR;Card;0;100.00;PeopleSync;1
+14917;Completed;24/06/2025 12:47;NL;Card;0;225.00;ShipStream;1
+14912;Completed;23/06/2025 21:27;US;Card;0;100.00;PeopleSync;1
+14865;Completed;22/06/2025 01:12;PH;Card;0;225.00;ShipStream;1
+14864;Completed;20/06/2025 21:30;US;Card;0;97.00;ShipStream - Core;1
+14863;Completed;12/06/2025 23:03;US;Card;0;225.00;ShipStream;1
+14862;Completed;12/06/2025 20:21;US;Card;0;9.99;ShipStream;1
+14861;Completed;11/06/2025 22:50;GB;Card;0;9.99;ShipStream;1
+14860;Completed;06/06/2025 15:50;US;Card;0;9.99;ShipStream;1
+14858;Completed;05/06/2025 10:38;AU;PayPal Pay Later;0;50.00;FulfillPro;1
+14857;Completed;05/06/2025 03:18;SG;Card;0;9.99;ShipStream;1
+14856;Completed;04/06/2025 15:25;US;PayPal;0;100.00;PeopleSync;1
+14855;Completed;04/06/2025 04:17;US;Card;0;97.00;ShipStream - Core;1
+14854;Completed;04/06/2025 01:24;GB;PayPal;0;50.00;FulfillPro;1
+14853;Completed;03/06/2025 22:36;US;Card;0;50.00;FulfillPro;1
+14852;Completed;03/06/2025 19:36;CA;Card;0;50.00;FulfillPro;1
+14851;Completed;03/06/2025 18:19;US;Card;0;9.99;ProspectHub;1
+14850;Completed;03/06/2025 15:50;US;PayPal;0;50.00;FulfillPro;1
+14741;Completed;31/05/2025 18:00;US;PayPal;0;9.99;ProspectHub;1
+14740;Completed;31/05/2025 11:05;US;PayPal;0;9.99;ProspectHub;1
+14739;Completed;30/05/2025 11:56;US;Card;0;9.99;ProspectHub;1
+14736;Completed;27/05/2025 05:41;CA;Card;0;9.99;ProspectHub;1
+14734;Completed;26/05/2025 11:16;GB;PayPal;0;9.99;ProspectHub;1
+14732;Completed;24/05/2025 09:27;RO;Card;0;9.99;ShipStream;1
+14731;Completed;23/05/2025 20:15;AL;Card;0;9.99;ShipStream;1
+14730;Completed;23/05/2025 12:52;GB;PayPal;0;9.99;ProspectHub;1
+14729;Completed;22/05/2025 04:03;CO;PayPal;0;19.98;ProspectHub;1
+14729;Completed;22/05/2025 04:03;CO;PayPal;0;19.98;ShipStream;1
+14728;Completed;22/05/2025 01:08;US;Card;0;9.99;ProspectHub;1
+14727;Completed;21/05/2025 23:42;AU;Card;0;9.99;ProspectHub;1
+14726;Completed;21/05/2025 17:29;CA;Card;0;9.99;ProspectHub;1
+14722;Completed;19/05/2025 17:12;US;Card;0;9.99;ProspectHub;1
+14720;Completed;18/05/2025 23:23;CA;Card;0;225.00;ShipStream;1
+14719;Completed;17/05/2025 06:51;IN;Card;0;9.99;ProspectHub;1
+14718;Completed;14/05/2025 17:26;GB;Card;0;9.99;ProspectHub;1
+14716;Completed;14/05/2025 13:23;AU;Card;0;9.99;ShipStream;1
+14715;Completed;14/05/2025 10:08;ML;Card;0;9.99;ShipStream;1
+14714;Completed;13/05/2025 17:04;CA;PayPal;0;9.99;ProspectHub;1
+14713;Completed;12/05/2025 13:16;JM;Card;0;9.99;ShipStream;1
+14712;Completed;12/05/2025 08:58;IE;Card;0;225.00;ShipStream;1
+14710;Completed;11/05/2025 14:22;US;Card;0;9.99;ShipStream;1
+14709;Completed;11/05/2025 06:20;GB;Card;0;9.99;ShipStream;1
+14708;Completed;11/05/2025 05:41;IN;Card;0;9.99;ProspectHub;1
+14707;Completed;10/05/2025 21:53;US;Card;0;225.00;ShipStream;1
+14706;Completed;07/05/2025 16:24;US;Card;0;97.00;ShipStream - Core;1
+14705;Completed;07/05/2025 15:37;US;Card;0;9.99;ProspectHub;1
+14704;Completed;07/05/2025 05:26;US;PayPal;0;9.99;ProspectHub;1
+14702;Completed;05/05/2025 21:45;US;Card;0;9.99;ProspectHub;1
+14701;Completed;05/05/2025 11:21;GB;Card;0;9.99;ProspectHub;1
+14700;Completed;04/05/2025 17:25;KE;PayPal;0;9.99;ProspectHub;1
+14699;Completed;03/05/2025 19:18;GB;PayPal;0;9.99;ProspectHub;1
+14698;Completed;03/05/2025 15:00;GB;Card;0;225.00;ShipStream;1
+14697;Completed;03/05/2025 12:10;IN;Card;0;9.99;ProspectHub;1
+14696;Completed;28/04/2025 22:43;US;Card;0;9.99;ProspectHub;1
+14695;Completed;28/04/2025 13:21;AE;Card;0;9.99;ProspectHub;1
+14692;Completed;27/04/2025 17:09;GB;Card;0;9.99;ProspectHub;1
+14691;Completed;26/04/2025 22:14;US;Card;0;9.99;ProspectHub;1
+14690;Completed;26/04/2025 07:49;MY;Card;0;9.99;ShipStream;1
+14662;Completed;24/04/2025 16:24;US;Card;0;9.99;ProspectHub;1
+14660;Completed;23/04/2025 21:15;US;Card;0;9.99;ProspectHub;1
+14659;Completed;23/04/2025 17:52;US;Card;0;9.99;ProspectHub;1
+14658;Completed;23/04/2025 10:14;GB;Card;0;9.99;ProspectHub;1
+14657;Completed;22/04/2025 01:43;NZ;Card;0;97.00;ShipStream - Core;1
+14656;Completed;21/04/2025 12:38;ES;Card;0;9.99;ProspectHub;1
+14655;Completed;20/04/2025 00:54;US;PayPal;0;9.99;ProspectHub;1
+14652;Completed;18/04/2025 01:25;AU;Card;0;9.99;ProspectHub;1
+14651;Completed;17/04/2025 22:36;AU;Card;0;9.99;ProspectHub;1
+14650;Completed;17/04/2025 20:24;GB;Card;0;9.99;ProspectHub;1
+14649;Completed;17/04/2025 19:47;US;PayPal;0;9.99;ProspectHub;1
+14648;Completed;17/04/2025 19:28;US;Card;0;9.99;ProspectHub;1
+14647;Completed;17/04/2025 16:54;US;Card;0;9.99;ProspectHub;1
+14645;Completed;17/04/2025 10:33;GB;Card;0;9.99;ProspectHub;1
+14644;Completed;17/04/2025 09:11;KE;Card;0;9.99;ProspectHub;1
+14643;Completed;17/04/2025 09:07;FR;Card;0;9.99;ProspectHub;1
+14642;Completed;17/04/2025 09:03;FR;Card;0;97.00;ShipStream - Core;1
+14622;Completed;16/04/2025 22:27;US;PayPal;0;9.99;ProspectHub;1
+14621;Completed;16/04/2025 21:09;US;PayPal;0;9.99;ProspectHub;1
+14602;Completed;16/04/2025 19:49;GB;Card;0;9.99;ProspectHub;1
+14598;Completed;16/04/2025 18:34;US;PayPal;0;9.99;ProspectHub;1
+14397;Completed;16/04/2025 03:10;US;PayPal Pay Later;0;225.00;ShipStream;1
+14313;Completed;12/04/2025 21:44;US;Card;0;225.00;ShipStream;1
+14312;Completed;11/04/2025 04:50;US;Card;0;180.00;ShipStream;1
+14296;Completed;04/04/2025 05:37;AU;PayPal;0;97.00;ShipStream - Core;1
+14295;Completed;03/04/2025 15:27;GB;PayPal;0;225.00;ShipStream;1
+14291;Completed;02/04/2025 15:42;GB;PayPal;0;97.00;ShipStream - Core;1
+13081;Completed;24/03/2025 03:24;AU;Card;0;350.00;OrderSync;1
+13080;Completed;21/03/2025 17:46;GB;Card;0;300.00;OrderSync;1
+13078;Completed;21/03/2025 16:15;US;Card;0;225.00;ShipStream;1
+13075;Completed;19/03/2025 00:48;AU;PayPal;0;225.00;ShipStream;1
+13074;Completed;18/03/2025 22:59;US;Card;0;202.50;ShipStream;1
+13073;Completed;18/03/2025 21:16;US;PayPal;0;225.00;ShipStream;1
+13068;Completed;14/03/2025 13:09;NG;Card;0;225.00;ShipStream;1
+13020;Completed;07/03/2025 17:24;US;PayPal Pay Later;0;225.00;ShipStream;1
+13009;Completed;06/03/2025 09:09;US;PayPal;0;350.00;OrderSync;1
+12969;Completed;03/03/2025 11:56;GB;Card;0;350.00;OrderSync;1
+12836;Completed;27/02/2025 10:44;CA;Card;0;350.00;WorkflowHR;1
+12835;Completed;26/02/2025 15:35;CA;Card;0;350.00;WorkflowHR;1
+12472;Completed;20/02/2025 17:16;US;PayPal Pay Later;0;175.00;WorkflowHR;1
+12424;Refunded;18/02/2025 20:04;IN;;; -62.50;;
+12425;Completed;17/02/2025 21:50;CA;PayPal;0;225.00;ShipStream;1
+12424;Completed;17/02/2025 16:47;IN;Card;62.5;350.00;OrderSync;1
+12423;Completed;17/02/2025 10:27;QA;Card;0;350.00;OrderSync;1
+12412;Completed;13/02/2025 12:33;AU;PayPal Pay Later;0;350.00;WorkflowHR;1
+12411;Completed;12/02/2025 14:46;GB;Card;0;225.00;ShipStream;1
+12410;Completed;12/02/2025 08:44;AU;PayPal Pay Later;0;350.00;OrderSync;1
+12408;Completed;10/02/2025 20:33;US;Card;0;350.00;OrderSync;1
+12407;Completed;05/02/2025 12:12;US;Card;0;75.00;WorkflowHR;1
+12405;Completed;04/02/2025 23:57;US;Card;0;350.00;OrderSync;1
+12332;Completed;03/02/2025 00:55;US;Card;0;350.00;OrderSync;1
+12287;Completed;29/01/2025 22:46;US;Card;0;350.00;OrderSync;1
+12181;Completed;28/01/2025 19:18;US;PayPal;0;350.00;OrderSync;1
+12170;Completed;23/01/2025 21:15;GB;PayPal;0;350.00;OrderSync;1
+12169;Completed;22/01/2025 17:42;GB;Card;0;140.00;ShipStream;1
+12167;Completed;20/01/2025 08:59;NG;Card;0;350.00;OrderSync;1
+12166;Completed;19/01/2025 03:17;CA;Card;0;350.00;OrderSync;1
+12165;Completed;18/01/2025 05:45;ID;Card;0;157.50;ShipStream;1
+12164;Completed;16/01/2025 19:58;CA;Card;0;350.00;OrderSync;1
+12153;Completed;13/01/2025 06:24;TH;Card;0;100.00;ConvertMax;1
+12150;Completed;12/01/2025 15:04;FR;Card;0;175.00;ConvertMax;1
+12149;Completed;12/01/2025 14:32;GB;Card;0;175.00;ConvertMax;1
+12146;Completed;11/01/2025 11:56;GB;PayPal;0;175.00;ShipStream;1
+12145;Completed;10/01/2025 18:19;US;PayPal Pay Later;0;350.00;OrderSync;1
+12144;Completed;10/01/2025 06:59;TW;Card;0;350.00;OrderSync;1
+12143;Completed;09/01/2025 18:40;CA;Card;0;175.00;ShipStream;1
+12141;Completed;09/01/2025 16:40;US;Card;0;140.00;ShipStream;1
+12141;Completed;09/01/2025 16:40;US;Card;0;140.00;;
+12140;Completed;09/01/2025 15:28;GB;Card;0;175.00;ShipStream;1
+12138;Completed;08/01/2025 22:30;US;PayPal Pay Later;0;350.00;OrderSync;1
+12131;Completed;04/01/2025 11:22;AU;PayPal Pay Later;0;175.00;ShipStream;1
+12117;Completed;01/01/2025 22:32;US;PayPal;0;350.00;OrderSync;1
+12112;Refunded;31/12/2024 18:58;US;;; -50.00;;
+12115;Completed;31/12/2024 08:27;US;PayPal;0;175.00;ConvertMax;1
+12114;Completed;30/12/2024 14:46;FR;PayPal Pay Later;0;175.00;ConvertMax;1
+12113;Completed;28/12/2024 21:40;CA;Card;0;350.00;OrderSync;1
+12112;Completed;28/12/2024 21:29;US;Card;50;100.00;ConvertMax;1
+12111;Completed;28/12/2024 14:11;NO;Card;0;175.00;ShipStream;1
+12110;Completed;26/12/2024 20:42;VE;PayPal;0;350.00;OrderSync;1
+12109;Completed;26/12/2024 19:30;US;Card;0;100.00;ConvertMax;1
+12108;Completed;20/12/2024 06:54;US;PayPal;0;175.00;OrderSync;1
+12106;Completed;19/12/2024 15:55;US;PayPal Pay Later;0;350.00;OrderSync;1
+12054;Completed;12/12/2024 13:40;US;Card;0;100.00;ConvertMax;1
+12052;Completed;09/12/2024 14:56;AU;PayPal Pay Later;0;175.00;ShipStream;1
+12050;Completed;05/12/2024 21:22;SK;PayPal;0;175.00;ConvertMax;1
+12049;Completed;05/12/2024 18:46;GB;Card;0;175.00;ShipStream;1
+12048;Completed;04/12/2024 21:24;NO;Card;0;175.00;ConvertMax;1
+12045;Completed;03/12/2024 13:24;US;Card;0;175.00;ConvertMax;1
+12021;Completed;30/11/2024 17:54;RS;Card;0;157.50;ShipStream;1
+12020;Completed;30/11/2024 03:39;VN;PayPal;0;100.00;ConvertMax;1
+12019;Completed;29/11/2024 23:35;AU;Card;0;175.00;ShipStream;1
+11415;Completed;28/11/2024 01:36;CA;PayPal;0;100.00;ConvertMax;1
+11352;Completed;27/11/2024 10:42;GB;Card;0;1.00;OrderSync;1
+11302;Completed;25/11/2024 22:07;US;PayPal Pay Later;0;350.00;OrderSync;1
+11250;Completed;25/11/2024 16:31;TW;Card;0;350.00;OrderSync;1
+11123;Completed;23/11/2024 14:17;US;Card;0;300.00;OrderSync;1
+11003;Completed;21/11/2024 05:50;US;PayPal;0;100.00;ConvertMax;1
+11002;Completed;21/11/2024 02:42;US;Card;0;100.00;ConvertMax;1
+11000;Completed;17/11/2024 15:30;GB;Card;0;100.00;ConvertMax;1
+10999;Completed;17/11/2024 00:56;US;PayPal Pay Later;0;350.00;OrderSync;1
+10998;Completed;15/11/2024 21:26;GB;PayPal;0;350.00;OrderSync;1
+10997;Completed;15/11/2024 11:26;TR;Card;0;100.00;ConvertMax;1
+10995;Completed;14/11/2024 06:53;CA;Card;0;175.00;ShipStream;1
+10988;Completed;12/11/2024 13:48;DO;Card;0;175.00;ConvertMax;1
+10987;Completed;08/11/2024 01:32;GB;Card;0;350.00;OrderSync;1
+10986;Completed;07/11/2024 10:01;NL;PayPal;0;157.50;ShipStream;1
+10985;Completed;06/11/2024 17:27;US;PayPal;0;350.00;OrderSync;1
+10984;Completed;03/11/2024 12:33;GB;Card;0;350.00;OrderSync;1
+10983;Completed;03/11/2024 08:42;PT;Card;0;1.00;ShipStream;1
+10980;Completed;02/11/2024 16:31;CA;Card;0;175.00;ShipStream;1
+10978;Completed;02/11/2024 07:51;US;Card;0;350.00;OrderSync;1
+10977;Completed;02/11/2024 06:08;US;Card;0;175.00;ShipStream;1
+10976;Completed;01/11/2024 19:12;US;PayPal;0;175.00;ConvertMax;1
+10975;Completed;31/10/2024 23:49;CA;Card;0;175.00;ShipStream;1
+10961;Completed;31/10/2024 07:24;VN;Card;0;175.00;ConvertMax;1
+10959;Completed;30/10/2024 06:00;US;Card;0;175.00;ShipStream;1
+10958;Completed;29/10/2024 11:56;GB;PayPal;0;100.00;ConvertMax;1
+10953;Completed;28/10/2024 08:55;IN;PayPal;0;350.00;OrderSync;1
+10952;Completed;27/10/2024 06:53;EE;Card;0;100.00;ConvertMax;1
+10951;Completed;25/10/2024 19:33;US;Card;0;175.00;ShipStream;1
+10950;Completed;25/10/2024 12:11;AU;Card;0;350.00;OrderSync;1
+10949;Completed;23/10/2024 09:53;GB;Card;0;300.00;OrderSync;1
+10946;Completed;23/10/2024 00:37;US;Card;0;175.00;ConvertMax;1
+10933;Completed;22/10/2024 11:45;US;PayPal;0;350.00;OrderSync;1
+10816;Completed;19/10/2024 06:54;DE;Card;0;100.00;ConvertMax;1
+10815;Completed;18/10/2024 23:52;GB;PayPal;0;175.00;ShipStream;1
+10814;Completed;18/10/2024 17:33;CL;Card;0;350.00;OrderSync;1
+10813;Completed;16/10/2024 15:57;US;PayPal;0;350.00;OrderSync;1
+10717;Completed;15/10/2024 09:42;FR;Card;0;140.00;ShipStream;1
+10716;Completed;15/10/2024 03:24;AR;Card;0;175.00;ShipStream;1
+10715;Completed;14/10/2024 20:21;IT;PayPal;0;350.00;OrderSync;1
+10714;Completed;14/10/2024 18:28;US;Card;0;100.00;ConvertMax;1
+10713;Completed;14/10/2024 15:42;CL;Card;0;175.00;ConvertMax;1
+10712;Completed;14/10/2024 10:29;FI;PayPal;0;350.00;OrderSync;1
+10711;Completed;13/10/2024 23:21;AU;PayPal;0;350.00;OrderSync;1
+10710;Completed;12/10/2024 01:46;US;Card;0;350.00;OrderSync;1
+10708;Completed;09/10/2024 02:26;CA;PayPal;0;175.00;ShipStream;1
+10707;Completed;08/10/2024 15:32;RS;Card;0;140.00;ShipStream;1
+10698;Completed;05/10/2024 13:01;US;Card;0;175.00;ConvertMax;1
+10697;Completed;05/10/2024 04:20;CA;Card;0;175.00;ConvertMax;1
+10696;Completed;04/10/2024 21:31;US;PayPal Pay Later;0;350.00;OrderSync;1
+10695;Completed;04/10/2024 07:52;GB;Card;0;175.00;ShipStream;1
+10694;Completed;04/10/2024 03:36;US;PayPal;0;350.00;OrderSync;1
+10692;Completed;02/10/2024 04:33;DK;Card;0;350.00;OrderSync;1
+10691;Completed;01/10/2024 15:22;US;Card;0;350.00;OrderSync;1
+10690;Completed;01/10/2024 15:16;SG;PayPal;0;350.00;OrderSync;1
+10680;Completed;28/09/2024 00:11;US;Card;0;100.00;ConvertMax;1
+10676;Completed;23/09/2024 19:00;GB;Card;0;175.00;ShipStream;1
+10675;Completed;23/09/2024 18:28;US;Card;0;175.00;ShipStream;1
+10673;Completed;21/09/2024 01:31;CA;Card;0;175.00;ConvertMax;1
+10672;Completed;20/09/2024 10:27;AU;Card;0;175.00;ShipStream;1
+10633;Completed;17/09/2024 15:48;SG;Card;0;350.00;OrderSync;1
+10624;Completed;15/09/2024 02:19;JP;Card;0;175.00;ShipStream;1
+10623;Completed;14/09/2024 18:04;US;Card;0;175.00;ShipStream;1
+10622;Completed;14/09/2024 06:39;GB;Card;0;350.00;OrderSync;1
+10621;Completed;13/09/2024 21:30;US;Card;0;300.00;OrderSync;1
+10620;Completed;12/09/2024 20:26;US;Card;0;350.00;OrderSync;1
+10617;Completed;10/09/2024 02:26;GB;Card;0;300.00;OrderSync;1
+10616;Completed;07/09/2024 07:14;HR;Card;0;50.00;ConvertMax;1
+10614;Completed;06/09/2024 19:08;CA;Card;0;195.00;OrderSync;1
+10614;Completed;06/09/2024 19:08;CA;Card;0;195.00;;
+10613;Completed;06/09/2024 13:02;US;PayPal;0;100.00;ConvertMax;1
+10612;Completed;06/09/2024 00:49;US;PayPal;0;100.00;ConvertMax;1
+10609;Completed;05/09/2024 18:49;US;Card;0;100.00;ConvertMax;1
+10608;Completed;05/09/2024 16:05;GB;PayPal;0;175.00;ConvertMax;1
+10607;Completed;05/09/2024 14:40;GE;PayPal;0;50.00;ConvertMax;1
+10606;Completed;05/09/2024 05:10;MZ;PayPal;0;125.00;ShipStream;1
+10605;Completed;04/09/2024 21:10;US;Card;0;175.00;ShipStream;1
+10604;Completed;04/09/2024 19:30;US;Card;0;50.00;ConvertMax;1
+10603;Completed;04/09/2024 13:35;FR;Card;0;50.00;ConvertMax;1
+10599;Completed;03/09/2024 17:58;US;Card;0;50.00;ConvertMax;1
+10598;Completed;03/09/2024 17:45;US;PayPal;0;125.00;ConvertMax;1
+10597;Completed;03/09/2024 15:31;US;PayPal Pay Later;0;350.00;OrderSync;1
+10596;Completed;03/09/2024 15:16;PH;Card;0;50.00;ConvertMax;1
+10595;Completed;03/09/2024 14:08;BE;Card;0;50.00;ConvertMax;1
+10322;Completed;26/08/2024 12:10;NZ;Card;0;175.00;ShipStream;1
+10313;Completed;23/08/2024 21:47;US;PayPal;0;175.00;ShipStream;1
+10312;Completed;22/08/2024 04:18;AU;PayPal;0;175.00;ShipStream;1
+10311;Completed;20/08/2024 20:41;US;Card;0;175.00;ShipStream;1
+10297;Completed;07/08/2024 19:56;US;Card;0;175.00;ShipStream;1
+10296;Completed;06/08/2024 13:29;SG;Card;0;300.00;OrderSync;1
+10294;Completed;02/08/2024 01:53;CA;PayPal;0;175.00;ShipStream;1
+10286;Completed;28/07/2024 09:42;NZ;Card;0;300.00;OrderSync;1
+10285;Completed;28/07/2024 06:40;US;PayPal;0;175.00;ShipStream;1
+10278;Completed;23/07/2024 17:05;US;Card;0;175.00;ShipStream;1
+10277;Completed;22/07/2024 13:08;GB;Card;0;175.00;ShipStream;1
+10212;Completed;18/07/2024 11:32;US;Card;0;175.00;ShipStream;1
+10132;Completed;17/07/2024 21:04;US;Card;0;300.00;ShipStream;1
+9662;Completed;08/07/2024 17:48;CA;PayPal;0;75.00;ConvertMax;1
+9661;Completed;07/07/2024 16:29;GB;Card;0;300.00;ShipStream;1
+9653;Completed;07/07/2024 13:31;US;PayPal;0;10.00;ConvertMax;1
+9652;Completed;07/07/2024 03:58;CA;Card;0;10.00;ConvertMax;1
+9615;Completed;06/07/2024 10:28;GB;Card;0;300.00;ShipStream;1
+9614;Completed;04/07/2024 22:17;US;Card;0;10.00;ConvertMax;1
+9613;Completed;04/07/2024 05:02;KE;PayPal;0;10.00;ConvertMax;1
+9612;Completed;02/07/2024 01:38;CA;PayPal Pay Later;0;10.00;ConvertMax;1
+9611;Completed;01/07/2024 22:22;US;Card;0;10.00;ConvertMax;1
+9598;Completed;30/06/2024 19:05;MX;PayPal;0;5.00;ConvertMax;1
+9597;Completed;30/06/2024 13:39;MY;Card;0;5.00;ConvertMax;1
+9596;Completed;30/06/2024 12:53;SE;Card;0;300.00;ShipStream;1
+9595;Completed;29/06/2024 10:56;SG;Card;0;300.00;ShipStream;1
+9585;Completed;27/06/2024 00:19;CA;PayPal;0;5.00;ConvertMax;1
+9584;Completed;26/06/2024 13:24;CO;Card;0;5.00;ConvertMax;1
+9583;Completed;26/06/2024 07:09;SG;Card;0;5.00;ConvertMax;1
+9581;Completed;26/06/2024 05:43;US;Card;0;5.00;ConvertMax;1
+9577;Completed;25/06/2024 17:42;US;PayPal;0;300.00;ShipStream;1
+9576;Completed;25/06/2024 17:12;BG;Card;0;5.00;ConvertMax;1
+9545;Completed;25/06/2024 02:28;US;Card;0;5.00;ConvertMax;1
+9544;Completed;24/06/2024 23:28;US;PayPal;0;5.00;ConvertMax;1
+9543;Completed;24/06/2024 22:34;AU;Card;0;5.00;ConvertMax;1
+9542;Completed;24/06/2024 19:49;NL;Card;0;5.00;ConvertMax;1
+9540;Completed;24/06/2024 18:02;US;PayPal Pay Later;0;5.00;ConvertMax;1
+9539;Completed;24/06/2024 17:15;MY;PayPal;0;5.00;ConvertMax;1
+9538;Completed;24/06/2024 15:20;US;Card;0;5.00;ConvertMax;1
+9537;Completed;24/06/2024 15:07;RO;Card;0;5.00;ConvertMax;1
+9536;Completed;24/06/2024 15:02;US;Card;0;5.00;ConvertMax;1
+9534;Completed;24/06/2024 14:54;US;Card;0;5.00;ConvertMax;1
+9532;Completed;24/06/2024 14:35;NL;Card;0;5.00;ConvertMax;1
+9531;Completed;24/06/2024 14:33;DE;PayPal;0;5.00;ConvertMax;1
+9530;Completed;24/06/2024 14:32;US;Card;0;5.00;ConvertMax;1
+9529;Completed;24/06/2024 14:28;IE;Card;0;5.00;ConvertMax;1
+9528;Completed;24/06/2024 14:22;SE;Card;0;5.00;ConvertMax;1
+9527;Completed;24/06/2024 14:19;GB;Card;0;5.00;ConvertMax;1
+9526;Completed;24/06/2024 14:19;PH;Card;0;5.00;ConvertMax;1
+9525;Completed;24/06/2024 14:11;US;Card;0;5.00;ConvertMax;1
+9524;Completed;24/06/2024 14:11;US;PayPal;0;5.00;ConvertMax;1
+9522;Completed;24/06/2024 14:07;GB;Card;0;5.00;ConvertMax;1
+9520;Completed;24/06/2024 14:05;US;PayPal;0;5.00;ConvertMax;1
+9519;Completed;24/06/2024 14:05;US;Card;0;5.00;ConvertMax;1
+9509;Completed;24/06/2024 04:49;US;Card;0;300.00;ShipStream;1
+9508;Completed;24/06/2024 03:59;CA;PayPal;0;300.00;ShipStream;1
+9507;Completed;23/06/2024 20:15;CA;Card;0;300.00;ShipStream;1
+9506;Completed;23/06/2024 20:03;US;PayPal;0;300.00;ShipStream;1
+9384;Completed;18/06/2024 21:42;US;Card;0;300.00;ShipStream;1
+9383;Completed;18/06/2024 21:18;US;PayPal;0;300.00;ShipStream;1
+9279;Completed;16/06/2024 20:10;GB;Card;0;300.00;ShipStream;1
+9150;Completed;14/06/2024 23:23;IE;Card;0;300.00;ShipStream;1
+9149;Completed;14/06/2024 22:46;FR;Card;0;300.00;ShipStream;1
+8923;Completed;12/06/2024 19:21;US;Card;0;300.00;ShipStream;1
+8919;Completed;12/06/2024 18:35;HR;Card;0;300.00;ShipStream;1
+8806;Completed;12/06/2024 02:38;CA;Card;0;300.00;ShipStream;1
+8797;Completed;11/06/2024 20:55;US;Card;0;300.00;ShipStream;1
+8749;Completed;09/06/2024 22:55;US;Card;0;300.00;ShipStream;1
+8729;Completed;06/06/2024 16:58;CA;Card;0;300.00;ShipStream;1
+8725;Completed;06/06/2024 02:48;US;PayPal;0;300.00;ShipStream;1
+8281;Completed;02/06/2024 17:18;BS;Card;0;398.00;ShipStream;1
+8159;Refunded;01/06/2024 16:24;VN;;; -398.00;;
+8266;Completed;01/06/2024 15:09;SG;Card;0;398.00;ConvertMax;1
+7781;Completed;27/05/2024 19:40;US;Card;0;398.00;ShipStream;1
+7681;Completed;22/05/2024 23:13;US;Card;0;148.00;ConvertMax;1
+7269;Completed;20/05/2024 19:40;GB;PayPal;0;18.00;LeadFlow;1
+6829;Completed;19/05/2024 19:49;US;PayPal;0;18.00;LeadFlow;1
+6520;Completed;18/05/2024 09:49;GB;PayPal;0;148.00;ConvertMax;1
+5708;Completed;14/05/2024 13:02;NO;Card;0;18.00;LeadFlow;1
+5646;Completed;13/05/2024 16:42;US;PayPal;0;148.00;ConvertMax;1
+5645;Completed;13/05/2024 14:38;US;Card;0;148.00;ConvertMax;1
+5573;Completed;12/05/2024 22:35;US;Card;0;98.00;ShipStream;1
+5571;Completed;12/05/2024 17:55;CA;Card;0;148.00;ConvertMax;1
+5182;Completed;09/05/2024 07:21;AU;PayPal;0;148.00;ConvertMax;1
+5170;Completed;08/05/2024 06:57;US;PayPal Pay Later;0;148.00;ConvertMax;1
+5169;Completed;07/05/2024 22:26;GB;Card;0;18.00;LeadFlow;1
+5167;Completed;07/05/2024 15:56;US;Card;0;98.00;ShipStream;1
+5166;Completed;07/05/2024 02:25;SG;Card;0;98.00;ShipStream;1
+5165;Completed;06/05/2024 11:29;US;PayPal;0;98.00;ShipStream;1
+5162;Completed;06/05/2024 04:05;US;PayPal;0;98.00;ShipStream;1
+5160;Completed;04/05/2024 22:38;US;Card;0;98.00;ShipStream;1
+5159;Completed;03/05/2024 10:32;SG;Card;0;148.00;ConvertMax;1
+5156;Completed;01/05/2024 00:22;US;Card;0;18.00;LeadFlow;1
+5153;Completed;28/04/2024 05:36;MY;PayPal;0;98.00;ShipStream;1
+5152;Completed;27/04/2024 12:51;US;Card;0;98.00;ShipStream;1
+5150;Completed;25/04/2024 20:11;US;PayPal;0;148.00;ConvertMax;1
+5146;Completed;24/04/2024 15:36;US;Card;0;148.00;ConvertMax;1
+5140;Completed;22/04/2024 16:17;AU;PayPal;0;148.00;ConvertMax;1
+5136;Completed;19/04/2024 17:42;CA;Card;0;98.00;ShipStream;1
+5135;Completed;18/04/2024 22:00;US;PayPal;0;18.00;LeadFlow;1
+5130;Completed;17/04/2024 08:57;GB;Card;0;18.00;LeadFlow;1
+5128;Pending payment;16/04/2024 02:37;CA;Card;0;18.00;LeadFlow;1
+5127;Completed;15/04/2024 18:03;US;PayPal;0;200.00;OrderSync;1
+5124;Completed;14/04/2024 23:33;US;Card;0;200.00;OrderSync;1
+5122;Completed;12/04/2024 10:56;GB;Card;0;200.00;OrderSync;1
+5111;Completed;11/04/2024 04:04;US;PayPal;0;148.00;ConvertMax;1
+5110;Completed;11/04/2024 03:15;AU;PayPal;0;18.00;LeadFlow;1
+5109;Completed;08/04/2024 23:53;TR;PayPal;0;18.00;LeadFlow;1
+5108;Completed;08/04/2024 21:11;US;PayPal;0;148.00;ConvertMax;1
+5062;Completed;07/04/2024 18:14;US;Card;0;98.00;ShipStream;1
+5059;Completed;06/04/2024 02:40;US;PayPal;0;148.00;ConvertMax;1
+5056;Completed;04/04/2024 13:41;US;Pay Later;0;148.00;ConvertMax;1
+5055;Completed;02/04/2024 13:21;HU;PayPal;0;148.00;ConvertMax;1
+5054;Completed;02/04/2024 11:17;SG;Card;0;98.00;ShipStream;1
+5052;Completed;01/04/2024 19:11;US;PayPal;0;148.00;ConvertMax;1
+5051;Completed;01/04/2024 14:47;US;Pay Later;0;98.00;ShipStream;1
+1988;Completed;30/03/2024 13:57;US;Card;0;98.00;ShipStream;1
+1978;Completed;29/03/2024 20:10;US;Card;0;18.00;LeadFlow;1
+1892;Completed;27/03/2024 18:19;CA;Card;0;15.00;LeadFlow;1
+1889;Completed;27/03/2024 13:33;CA;Card;0;80.00;ShipStream;1
+1881;Completed;27/03/2024 00:06;CA;Card;0;15.00;LeadFlow;1
+1867;Completed;25/03/2024 21:18;GB;PayPal;0;25.00;BusinessFlow;1
+1859;Completed;25/03/2024 08:08;GB;Card;0;80.00;ShipStream;1
+1833;Completed;23/03/2024 22:41;US;Card;0;80.00;ShipStream;1
+1832;Completed;23/03/2024 22:21;AU;Card;0;60.00;TalentCore;1
+1832;Completed;23/03/2024 22:21;AU;Card;0;60.00;BusinessFlow;1
+1819;Completed;22/03/2024 16:09;US;Card;0;35.00;TalentCore;1
+1804;Completed;21/03/2024 19:52;US;Pay Later;0;80.00;ShipStream;1
+1778;Completed;20/03/2024 23:15;PH;PayPal;0;15.00;LeadFlow;1
+1773;Completed;20/03/2024 18:32;US;PayPal;0;25.00;BusinessFlow;1
+1768;Completed;20/03/2024 08:02;SG;Card;0;80.00;BusinessFlow;1
+1768;Completed;20/03/2024 08:02;SG;Card;0;80.00;BusinessFlow;1
+1749;Completed;19/03/2024 19:38;GB;PayPal;0;15.00;Premium Plus BusinessFlow (Google Slides Editable Version);1
+1741;Completed;19/03/2024 15:13;CA;Card;0;35.00;TalentCore;1
+1738;Completed;19/03/2024 13:13;PT;Credit Card (Stripe);0;1.00;BusinessFlow;1
+1736;Pending payment;19/03/2024 08:39;PT;Credit Card (Stripe);0;1.00;BusinessFlow;1
+1735;Pending payment;19/03/2024 07:56;PT;Credit Card (Stripe);0;1.00;BusinessFlow;1
+1734;Completed;19/03/2024 07:15;PT;PayPal;0;1.00;BusinessFlow;1
+1733;Completed;19/03/2024 07:11;GB;Credit Card (Stripe);0;1.00;BusinessFlow;1
+1732;Pending payment;19/03/2024 07:07;PT;Credit Card (Stripe);0;1.00;BusinessFlow;1
+1728;Pending payment;18/03/2024 21:37;US;Credit Card (Stripe);0;80.00;BusinessFlow;1
+1721;Completed;18/03/2024 11:44;US;PayPal;0;35.00;TalentCore;1
+1721;Completed;18/03/2024 11:44;US;PayPal;0;35.00;BusinessFlow;1
+1666;Completed;15/03/2024 06:51;PH;PayPal;0;10.00;TalentCore;1
+1665;Completed;15/03/2024 03:56;US;PayPal;0;25.00;BusinessFlow;1
+1637;Completed;14/03/2024 21:24;PT;Credit Card (Stripe);0;1.00;TalentCore;1
+1547;Completed;13/03/2024 15:57;PT;PayPal;0;1.00;BusinessFlow;1
+1546;Completed;13/03/2024 15:50;PT;Credit Card (Stripe);0;1.00;BusinessFlow;1
