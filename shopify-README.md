@@ -6,7 +6,7 @@
 
 ## Dashboard Preview
 
-![Final Dashboard](visuals/Final_Dashboard.png)
+![Final Dashboard](visuals/Final%20Dashboard.png)
 
 > **Title:** Understanding Which Marketing Channels Drive Revenue and Customer Value
 >
@@ -135,7 +135,7 @@ SELECT 'dimCustomer', COUNT(*) FROM marketing_data.dimCustomer;
 -- Result: orders=417, dimAttribution=579, dimCustomer=579
 ```
 
-![Row Count Query](visuals/Marketing_SQL_Row_count.png)
+![Row Count Query](visuals/Marketing%20SQL%20Row%20count.png)
 
 ```sql
 -- Duplicate order check
@@ -146,7 +146,7 @@ HAVING COUNT(*) > 1;
 -- 9 duplicate orderNumbers identified → handled in cleaning view
 ```
 
-![Duplicate Check](visuals/Marketing%20-%20Duplicate_orderNumber_count_query.png)
+![Duplicate Check](visuals/Marketing%20-%20Duplicate%20orderNumber%20count%20query.png)
 
 ```sql
 -- Null check for orphaned orders (no customer or attribution match)
@@ -159,7 +159,7 @@ LEFT JOIN marketing_data.dimAttribution a USING(orderNumber);
 -- Result: no_customer=0, no_attribution=0 ✓
 ```
 
-![Null Check](visuals/Marketing%20-%20Count_of_null_orders_without_customer_or_attribution.png)
+![Null Check](visuals/Marketing%20-%20Count%20of%20null%20orders%20without%20customer%20or%20attribution.png)
 
 ```sql
 -- Date range
@@ -168,7 +168,7 @@ FROM marketing_data.prep;
 -- 2024-03-13 to 2025-07-22
 ```
 
-![Date Range](visuals/Marketing%20-%20Date_range.png)
+![Date Range](visuals/Marketing%20-%20Date%20range.png)
 
 ```sql
 -- Order status distribution
@@ -178,7 +178,7 @@ GROUP BY orderStatus;
 -- Completed: 402, Pending payment: 5, Refunded: 2
 ```
 
-![Order Status](visuals/Marketing%20-%20Distrbution_of_order_status.png)
+![Order Status](visuals/Marketing%20-%20Distrbution%20of%20order%20status.png)
 
 ```sql
 -- Refund summary
@@ -189,7 +189,7 @@ FROM marketing_data.prep;
 -- 2 refunded orders, $112.50 total refunded
 ```
 
-![Refunds](visuals/Marketing%20-%20Refunded_orders.png)
+![Refunds](visuals/Marketing%20-%20Refunded%20orders.png)
 
 ```sql
 -- Unique orders vs total vs nulls
@@ -201,7 +201,7 @@ FROM marketing_data.orders;
 -- 417 total, 408 unique, 0 nulls
 ```
 
-![Unique Orders](visuals/Marketing%20-%20Count_of_unique_orders.png)
+![Unique Orders](visuals/Marketing%20-%20Count%20of%20unique%20orders.png)
 
 ---
 
@@ -217,7 +217,7 @@ GROUP BY year, month
 ORDER BY year, month;
 ```
 
-![Orders by Month](visuals/Marketing%20-%20Orders_by_Year_and_Month.png)
+![Orders by Month](visuals/Marketing%20-%20Orders%20by%20Year%20and%20Month.png)
 
 ```sql
 -- Distribution by country (top markets)
@@ -230,7 +230,7 @@ ORDER BY transaction_count DESC;
 -- US: 43.24%, GB: 14.0%, CA: 9.34%, AU: 5.65%
 ```
 
-![Country Distribution](visuals/Marketing%20-%20Distribution_of_orders_by_country.png)
+![Country Distribution](visuals/Marketing%20-%20Distribution%20of%20orders%20by%20country.png)
 
 ```sql
 -- Attribution source distribution
@@ -241,8 +241,8 @@ ORDER BY count DESC;
 -- direct: 150, youtube.com: 141, google: 41, linkedin.com: 32
 ```
 
-![Attribution Distribution](visuals/Marketing%20-%20Distribution_by_attribution_channel.png)
-![Attribution Devices](visuals/Marketing%20-%20Distribution_by_attribution_devices.png)
+![Attribution Distribution](visuals/Marketing%20-%20Distribution%20by%20attribution%20channel.png)
+![Attribution Devices](visuals/Marketing%20-%20Distribution%20by%20attribution%20devices.png)
 
 ```sql
 -- Payment method distribution
@@ -252,7 +252,7 @@ GROUP BY paymentMethod;
 -- Card: 263, PayPal: 113, PayPal Pay Later: 20, Credit Card (Stripe): 8
 ```
 
-![Payment Methods](visuals/Marketing%20-%20Distribution_of_payment_methods.png)
+![Payment Methods](visuals/Marketing%20-%20Distribution%20of%20payment%20methods.png)
 
 ---
 
@@ -265,8 +265,8 @@ SELECT * FROM marketing_data.prep
 WHERE orderTotalAmount >= 0;
 ```
 
-![Cleaned Orders View](visuals/Marketing%20-%20Created_view_v_cleaned_orders.png)
-![Profile View](visuals/Marketing%20-%20Profile_of_v_cleaned_orders_view.png)
+![Cleaned Orders View](visuals/Marketing%20-%20Created%20view%20v_cleaned_orders.png)
+![Profile View](visuals/Marketing%20-%20Profile%20of%20v_cleaned_orders%20view.png)
 
 ```sql
 -- Validate distinct attribution devices after cleaning
@@ -274,7 +274,7 @@ SELECT DISTINCT attributionDevice FROM marketing_data.v_cleaned_orders_2;
 -- Desktop, Mobile ✓
 ```
 
-![Cleaned Devices](visuals/Marketing%20-%20Cleaned_attributionDevice.png)
+![Cleaned Devices](visuals/Marketing%20-%20Cleaned%20attributionDevice.png)
 
 ```sql
 -- Validate attribution sources
@@ -282,7 +282,7 @@ SELECT DISTINCT attributionSource FROM marketing_data.v_cleaned_orders_3;
 -- (direct), lnkd.in, m.youtube.com, patreon.com, bing.com...
 ```
 
-![Cleaned Sources](visuals/Marketing%20-%20Cleaned_attributionSource.png)
+![Cleaned Sources](visuals/Marketing%20-%20Cleaned%20attributionSource.png)
 
 ```sql
 -- Validate payment methods on completed orders
@@ -292,7 +292,7 @@ GROUP BY 1;
 -- Card: 271, PayPal: 115, Unknown: 23
 ```
 
-![Cleaned Payment Methods](visuals/Marketing%20-%20Cleaned_paymentMethod_for_orders_that_were_%C3%A7ompleted.png)
+![Cleaned Payment Methods](visuals/Marketing%20-%20Cleaned%20paymentMethod%20for%20orders%20that%20were%20%C3%A7ompleted.png)
 
 ---
 
@@ -307,7 +307,7 @@ FROM marketing_data.v_cleaned_orders;
 -- total_orders: 407, AOV: $134.38, total_revenue: $55,635.27
 ```
 
-![Total Orders AOV Revenue](visuals/Marketing%20-%20Total_orders__AOV__Total_revenue.png)
+![Total Orders AOV Revenue](visuals/Marketing%20-%20Total%20orders%2C%20AOV%2C%20Total%20revenue.png)
 
 ---
 
@@ -337,8 +337,8 @@ GROUP BY attributionSource
 ORDER BY totalRevenue DESC;
 ```
 
-![Revenue by Channel](visuals/Marketing%20-%20Revenue_by_Channel.png)
-![Total Revenue by Attribution](visuals/Marketing%20-%20Total_Revenue_by_Attribution_Source.png)
+![Revenue by Channel](visuals/Marketing%20-%20Revenue%20by%20Channel.png)
+![Total Revenue by Attribution](visuals/Marketing%20-%20Total%20Revenue%20by%20Attribution%20Source.png)
 
 ---
 
@@ -374,7 +374,7 @@ GROUP BY spendQuintile;
 ```
 
 ![LTV Query](visuals/Marketing%20-%20LTV.png)
-![LTV Distribution](visuals/Marketing%20-%20Distribution_of_Customer_LTV.png)
+![LTV Distribution](visuals/Marketing%20-%20Distribution%20of%20Customer%20LTV.png)
 
 ---
 
@@ -407,7 +407,7 @@ SELECT cohortMonth, monthsSinceAcq, activeCustomers
 FROM ...;
 ```
 
-![Cohort Retention](visuals/Marketing%20-%20Cohort_Retention.png)
+![Cohort Retention](visuals/Marketing%20-%20Cohort%20Retention.png)
 
 ---
 
@@ -530,7 +530,7 @@ shopify-marketing-attribution/
 1. **Start with the docs** — `Marketing_Project_Name_and_Scenario.docx` frames the business problem
 2. **Review the data model** — schema screenshots in `visuals/` show the star schema structure
 3. **Follow the SQL steps** — EDA → cleaning → KPIs → channel attribution → LTV → RFM → cohort retention
-4. **Explore the dashboard** — `visuals/Final_Dashboard.png` shows the full Tableau output with channel quadrant analysis
+4. **Explore the dashboard** — `visuals/Final%20Dashboard.png` shows the full Tableau output with channel quadrant analysis
 5. **Read the findings** — `Marketing_-_Insights_and_Recommendations.docx` for the final summary
 
 ---
