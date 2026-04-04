@@ -5,6 +5,7 @@
 ---
 
 ## Dashboard Preview
+**[View Live Interactive Dashboard](https://public.tableau.com/app/profile/jake.tangonan/viz/Marketing_17695217792260/MarketingDashboard)**
 
 ![Final Dashboard](visuals/Final%20Dashboard.png)
 
